@@ -1,7 +1,3 @@
-Task 9
-
-
-
 #include "main.h"
 
 /**
